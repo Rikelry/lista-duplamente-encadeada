@@ -94,7 +94,7 @@ https://git-scm.com
 **2️⃣ Clonar o repositório**
 
 ```
-git clone https://github.com/seu-usuario/lista-duplamente-encadeada.git
+git clone https://github.com/Rikelry/lista-duplamente-encadeada.git
 cd lista-duplamente-encadeada
 ```
 
